@@ -1,0 +1,7 @@
+{
+  "accounts":
+  [
+    {"Banca":"BRD","balance":"1200"},
+	{"Banca":"Raiffeisen","balance":"1350"}
+  ]
+}
