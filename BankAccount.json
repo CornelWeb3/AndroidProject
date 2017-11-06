@@ -1,14 +1,8 @@
 {
-  "accounts": [
-    {
-      "banca": "BRD",
-      "balance": "1200",
-      
-    },
-    {
-      "banca": "Raiffeisen",
-      "balance": "1350",
-      
-    }
+  "accounts": 
+  [
+    {"banca": "BRD","balance": "1200"},
+    {"banca": "Raiffeisen","balance": "1350"}
+    
   ]
 }
