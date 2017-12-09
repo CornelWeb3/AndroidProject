@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<catalog>
+   <locatie>
+      <denumire>Petra</denumire>
+      <tara>Iordan</tara>
+      <buget>50000</buget>
+   </locatie>
+	
+   <locatie>
+      <denumire>Gopal </denumire>
+      <tara>Varma</tara>
+      <buget>60000</buget>
+   </locatie>
+	
+   <locatie>
+      <denumire>Raja</denumire>
+      <tara>Hr</tara>
+      <buget>70000</buget>
+   </locatie>
+	
+</catalog>
